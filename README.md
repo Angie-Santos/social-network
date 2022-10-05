@@ -3,7 +3,7 @@
 ## **Índice**
 
 * [1. Introducción](#1-introducción)
- * [2. Definición de usuarios](#2-definición-de-usuarios)
+* [2. Definición de usuarios](#2-definición-de-usuarios)
 * [3. Historias de usuario](#3-historias-de-usuario)
 * [4. Prototipos](#4-prototipos)
 * [5. Resultados de los test de usabilidad](#5-resultados-de-los-test-de-usabilidad)
